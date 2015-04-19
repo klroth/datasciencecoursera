@@ -1,3 +1,3 @@
 # datasciencecoursera
 
-This is for a the Coursera Data Science Specialization.
+This is for the Coursera Data Science Specialization.
